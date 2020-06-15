@@ -3,13 +3,13 @@ Title,A Metatab Example Data Package
 Description,"An example data package, from the Metatab tutorial at"
 Description,https://github.com/CivicKnowledge/metatab-py/blob/master/README.rst
 Identifier,96cd659b-94ad-46ae-9c18-4018caa64355
-Name,example.com-test_variety-2017-us-1
+Name,example.com-test_variety-2017-us-2
 Dataset,test_variety
 Origin,example.com
 Time,2017
 Space,US
-Version,1
-Modified,2020-06-14T23:00:01
+Version,2
+Modified,2020-06-14T23:48:23
 Giturl,https://github.com/Metatab/metatab-packages.git
 Spatialgrain,
 ""
